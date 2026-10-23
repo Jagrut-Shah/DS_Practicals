@@ -1,0 +1,13 @@
+# Binaries and executables
+*.exe
+*.o
+*.obj
+*.out
+
+# Debugger files
+*.pdb
+*.dSYM/
+
+# VS Code and IDE metadata
+.vscode/
+.idea/
